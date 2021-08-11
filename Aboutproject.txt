@@ -1,0 +1,2 @@
+Name : git /agile training
+Technologies: .NET,MEAN and MERN full
